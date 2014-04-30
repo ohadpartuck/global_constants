@@ -1,0 +1,27 @@
+{
+  "name": "global_constants",
+  "version": "0.0.1",
+  "description": "A node module to contain global constants for my diferent services",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"echo \\\"Error: no test specified\\\" && exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ohadpartuck/global_constants.git"
+  },
+  "keywords": [
+    "constants",
+    "global"
+  ],
+  "author": "OP Master <ohadpartuck@gmail.com> (http://www.linkedin.com/in/ohadpartuck)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ohadpartuck/global_constants/issues"
+  },
+  "homepage": "https://github.com/ohadpartuck/global_constants",
+  "devDependencies": {
+    "mocha": "^1.18.2",
+    "chai": "^1.9.1"
+  }
+}
