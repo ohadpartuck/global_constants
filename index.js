@@ -1,6 +1,10 @@
 module.exports = {
     main:{
-        'bson_id'       : 'bson_id'
+        'bson_id'                   : 'bson_id',
+        'search_type_field'         : 'search_type',
+        'start_with_search_type'    : 'start_with_search',
+        'starts_with'               : 'starts_with',
+        'max_expansions'            : 'max_expansions'
     },
     sanger: {
         sanger_constants: {
